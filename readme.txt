@@ -1,0 +1,1 @@
+This project is a binary classification task that identifies if a wafer is good or bad based on 500 sensors data.
